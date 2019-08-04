@@ -1,0 +1,7 @@
+{
+  "name": "academicons",
+  "description": "Academicons",
+  "homepage": "https://primaryjj.github.io/",
+  "main": ["css/academicons.css"],
+  "ignore": ["**/.*"]
+}
